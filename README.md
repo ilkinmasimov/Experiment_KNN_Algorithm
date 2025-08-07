@@ -2,9 +2,6 @@
 
 This repository contains the implementation and evaluation of a **K-Nearest Neighbors (KNN)** classification model on the popular **Iris dataset**, as part of the Machine Learning coursework at **Harbin Institute of Technology, Shenzhen**.
 
-**Author**: Ilkin Masimov  
-**Student ID**: 24SF51099  
-**Experiment Date**: 2025-05-09
 
 ## Project Structure
 
